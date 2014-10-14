@@ -15,7 +15,7 @@ var NodeTipbotApi = function() {
 		    method  : 'GET',
 		    agent   : false,
 		    headers : {
-		    	"User-Agent" : "Mozilla/4.0 (compatible; Node Bittrex API)",
+		    	"User-Agent" : "Mozilla/4.0 (compatible; Node TipBot API)",
 		    	"Content-type" : "application/x-www-form-urlencoded"
 		    }
 	    };
