@@ -24,7 +24,7 @@
     "type": "git",
     "url": "https://github.com/nrpatten/node-tipbot-api.git"
   },
-  "main": "node-tipbot-api-js",
+  "main": "node-tipbot-api.js",
   "engines": {
     "node": ">=0.10"
   },
