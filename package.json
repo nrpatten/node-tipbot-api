@@ -1,6 +1,6 @@
 {
   "name": "node-tipbot-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node TipBot API - node.js library",
   "keywords": [
     "node",
@@ -22,9 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nrpatten/node-tipbot-api.git"
+    "url": "git://github.com/nrpatten/node-tipbot-api.git"
   },
-  "main": "node-tipbot-api.js",
+  "main": "./node-tipbot-api.js",
   "engines": {
     "node": ">=0.10"
   },
