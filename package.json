@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nrpatten/node-tipbot-api"
+    "url": "https://github.com/nrpatten/node-tipbot-api.git"
   },
   "main": "node-tipbot-api-js",
   "engines": {
@@ -34,6 +34,6 @@
   },
   "homepage": "https://github.com/nrpatten/node-tipbot-api",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test\" && exit 1"
   }
 }
