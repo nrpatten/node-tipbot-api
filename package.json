@@ -1,0 +1,39 @@
+{
+  "name": "node-tipbot-api",
+  "version": "0.0.1",
+  "description": "Node TipBot API - node.js library",
+  "keywords": [
+    "node",
+    "tipbot",
+    "api",
+    "tipbotapi"
+  ],
+  "author": {
+    "name": "NRPatten",
+    "url": " https://github.com/nrpatten"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "dependencies": {
+    "q": ">= 1.0.1",
+    "request": ">= 2.35.0",
+    "JSONStream": ">= 0.8.4",
+    "event-stream": ">= 3.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nrpatten/node-tipbot-api"
+  },
+  "main": "node-tipbot-api-js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "bugs": {
+    "url": "https://github.com/nrpatten/node-tipbot-api/issues",
+    "email": "nrpatten@gmail.com"
+  },
+  "homepage": "https://github.com/nrpatten/node-tipbot-api",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
