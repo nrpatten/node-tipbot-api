@@ -61,7 +61,6 @@ By default the returned data is an object, in order to get clear text you have t
 ##### sendCustomRequest 
 - url           String
 - callback      Function
-- credentials   Boolean     optional    whether the credentials should be applied to the request/stream or not, default is set to false.
 
 ```javascript
 var url = 'http://api.icndb.com/jokes/random';
