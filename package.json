@@ -1,6 +1,6 @@
 {
   "name": "node-tipbot-api",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Node TipBot API - node.js library",
   "keywords": [
     "node",
@@ -34,6 +34,6 @@
   },
   "homepage": "https://github.com/nrpatten/node-tipbot-api",
   "scripts": {
-    "test": "echo \"Error: no test\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
