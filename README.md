@@ -1,6 +1,8 @@
 Node TipBot API
 =========
 
+[![NPM](https://nodei.co/npm/node-tipbot-api.png?downloads=true&stars=true)](https://nodei.co/npm/node-tipbot-api/)
+
 ### NPM Installation
 ----
 
