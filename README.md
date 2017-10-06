@@ -1,7 +1,8 @@
 Node TipBot API
 =========
 
-[![NPM](https://nodei.co/npm/node-tipbot-api.png?downloads=true&stars=true)](https://nodei.co/npm/node-tipbot-api/)
+[![NPM](https://nodei.co/npm/node-tipbot-api.png?downloads=true&stars=true)](https://nodei.co/npm/node-tipbot-api/)           
+[![Known Vulnerabilities](https://snyk.io/test/github/nrpatten/node-tipbot-api/badge.svg)](https://snyk.io/test/github/nrpatten/node-tipbot-api)
 
 ### NPM Installation
 ----
